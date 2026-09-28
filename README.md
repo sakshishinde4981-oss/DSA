@@ -8,9 +8,14 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0155-min-stack) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishinde4981-oss/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishinde4981-oss/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
