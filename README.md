@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sakshishinde4981-oss/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -18,4 +19,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0895-maximum-frequency-stack) |
+## Hash Table
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/sakshishinde4981-oss/DSA/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
