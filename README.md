@@ -44,4 +44,16 @@
 |  |
 | ------- |
 | [1172-dinner-plate-stacks](https://github.com/sakshishinde4981-oss/DSA/tree/master/1172-dinner-plate-stacks) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshishinde4981-oss/DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshishinde4981-oss/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sakshishinde4981-oss/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
